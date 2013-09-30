@@ -1,0 +1,242 @@
+jCANCIONES
+
+toto las momposina-adios fulana
+bob marley -lick samba
+louis amstrong kiss of fire
+bob marley- pimper's paradise
+RAZON DE VIVIR
+
+BELLAGIO-Singin' in the Rain (Original Soundtrack Recording)
+los rodriguez milonga del marinero
+celia cruz tu voz
+bob marley cry to me
+concrete jungle bob marley
+8AB3NAPLQb
+rock it baby- bob marley
+magic muffin-- skatalites
+TANYA SKATALITES
+remy zero save me
+bond girl
+TREAD OH BOB MARLE
+LUNA DE BARCELONA
+TE PARA TRES CERATY
+SE FORMO EL DESORDEN MIX
+LA BELLESA DE MI SOL
+groove deluxe remix
+joplin
+howen fblcs
+blur
+lion of judah
+bad card bob marley
+angra
+petula clark
+HYPOCRITES
+violent femmes
+so much trouble in the world
+TECHNO LUISA MIX
+what a day
+
+la catera
+lethal industry
+come together
+dime que si
+desvrlo de amor
+
+1. Recibo Proveedor
+2. Recibo Cendis
+3. Despacho
+4. Ajuste
+5. Recibo Transferencia
+6. Devoluciones
+7. Inv Ciclicos
+8. Venta  
+9. reproceso
+10. Generacion Transferencia
+
+
+
+DIEGO MERCHAN FRUVER (m.diego60@hotmail.com); Camilo torres DirecCendis (kamilotorres@hotmail.com); 
+jhon vallejo (vallejo_john@hotmail.com); Jhon Alexander Cubides Rubiano (skorpion_29pj@hotmail.com); 
+jblanco14@hotmail.com; wilber_neo@hotmail.com; fabio aacastillo (fabiosist@hotmail.com); saul fernando (saulfer10@hotmail.com); 
+victor almacenes yep (viemarpa@yahoo.com); victorhuguito81@hotmail.com; gustavitoangulo@hotmail.com; 
+maikol (maykol1254@hotmail.com);astrinina666@hotmail.com, 
+zea_william@hotmail.com,reclacam@yahoo.es,xgcastanno@hotmail.com
+
+
+mujer marchita
+
+softdip_fer
+
+
+CREATE TABLE  `datos` (
+  `id` int(10) unsigned NOT NULL auto_increment,
+  `nombre` varchar(45) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=FEDERATED
+CONNECTION='mysql://softdip_fer:pass_db@hostname:3306/test/datos';
+mysql402.ixwebhosting.com
+
+
+
+ 	
+Nombre de usuario : admin
+Contraseña : 1WR2KYqp
+
+nancy.carrillo@norventas.com
+trabajo 600 a 650 
+que sepa de soporte usuario final, mantenimiento, algo de redes 
+*soporte primer nivel
+
+CLAVE INALAMBRICO
+34M4NQY7Y3
+06179489 
+
+
+
+lunes  4 - 4.000 ejecutivo
+martes 5 - 5.500 Especial
+
+
+
+makamero83@hotmail.com
+
+
+carlosjupe@hotmail.com
+
+spartacovillalobos
+
+
+Request #444533 
+
+
+
+SANDRA CARRILLO
+
+
+
+
+
+
+
+naavicat
+
+
+
+192.168.99.13
+
+L:luisan
+C:luisan
+
+SSH
+L:lsancgar
+H:80071432
+
+
+
+ixwebhosting
+
+mysql402.ixwebhosting.com
+
+L:softdip_fer
+C:80071432
+
+
+
+ftp
+
+ftp.distrifarmed.com
+jvmcompa
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+web410.ixwebhosting.com
+wizanchez
+
++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+192.168.99.11
+
+luis
+8007
+
++++++++++++++++++++++++++++++++++++++++++++
+
+192.168.99.250
+
+root
+dato,y.e.p.
+
+
+
+
+
+SELECT SUM( invpodetail_cross.cantidad )
+FROM invpodetail_cross, invpodetail
+WHERE invpodetail_cros
+
+
+SELECT invpodetail.id, (
+invpodetail.itemprice / invpodetail.itemqty
+) AS price, invpodetail.barcodeid,
+
+
+
+
+$conn->Close();
+
+
+
+0LWA9-Q4747-D100R-4YFMGJJEMM
+
+
+
+
+ Adjunto hoja de vida para postulacion a cargo.
+Para trabajo Freelance en casa,, gracias
+
+
+
+
+
+
+mo se entero de esta convocatoria? *
+ Computrabajo
+ Zonajobs
+ Sena
+ Bolsa de emple Universidad
+ Metrabajo.com
+ El empleo
+ Otro: 
+
+
+CLAVE SENA VIRTUAL
+usuario :80071432
+clave: 80071432
+
+
+300 5648156
+
+
+http://192.168.99.11/totaleerp/v3.01/erp/INV_Monitor_Dif.html.php?actionID=BARNOENCO&invID=1352
+
+
+176.700- JULIO AGOSTO
+
+
+
+ip bogota 
+
+192.168.1.60
+
+192.168.1.1
+
+
+192.168.1.10
+
+
+
+
+
