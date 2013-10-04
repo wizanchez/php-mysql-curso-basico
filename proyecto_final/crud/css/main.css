@@ -1,0 +1,19 @@
+body{
+
+	background-color: #DCE2E7;
+	background-image: url("../images/fondo.png");
+	background-position: 0 -2335px;
+	background-repeat: repeat-x;
+	padding-top: 100px;
+	font-family: Verdana,Arial, Helvetica ;
+	font-size: 10px;
+}
+td{
+	padding: 3px;
+}
+input{
+	padding: 3px;
+}
+th{
+	text-align: left;
+}
