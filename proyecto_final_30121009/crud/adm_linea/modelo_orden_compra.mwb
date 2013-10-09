@@ -1,0 +1,57 @@
+<?php
+function gl_insert_linea($nombre){
+global $conn;
+$inser="INSERT INTO aux_linea(nombre
+					,fecha_entrada)
+			  VALUES($'nombre',now())";
+			  mysql_query($inser, $conn)
+}
+
+function gl_get_linea($val,$type = ""){
+
+	global $conn;
+
+	switch ($type) {
+		case 'id':
+			 	$valid='AND id="'.$val.'"';
+			break;
+		case 'nombre':
+			 	$valid='AND nombre="'.$val.'"';
+		default:
+			# code...
+			break;
+	}
+}
+
+#...................................................................................
+#CREO LA CONSULTA
+
+$consul="SELECT id
+				,nombre
+				,fecha_entrada
+				,fecha_actualizacion
+		FROM 	
+				aux_linea
+		WHERE 
+				cancel=0
+				".$valid;
+
+				$a_respu=mysql_query($consul,$conn) or die(mysql_error());
+
+#.....................................................................................
+#IMPRIMO LA CONSULTA
+$i=0;
+	while ($a_respu2=mysql_fetch_array($a_respu)) {
+
+			$a_vect[$i]['id_linea']				=$a_respu2[$id];
+			$a_vect[$i]['id_nombre']			=$a_respu2[$nombre];
+			$a_vect[$i]['id_entra']				=$a_respu2[$fecha_entrada];
+			$a_vect[$i]['id_actual']			=$a_respu2[$fecha_actualizacion];
+
+			$i++;
+
+	}
+
+return $a_vect;
+
+?>
