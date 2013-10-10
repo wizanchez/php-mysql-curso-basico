@@ -1,0 +1,16 @@
+[04-Oct-2013 19:08:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.list.php on line 19
+[07-Oct-2013 12:33:50] PHP Parse error:  syntax error, unexpected ')' in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 32
+[07-Oct-2013 18:30:59] PHP Parse error:  syntax error, unexpected T_IF in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 35
+[07-Oct-2013 18:31:36] PHP Parse error:  syntax error, unexpected T_IF in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 35
+[07-Oct-2013 18:33:16] PHP Parse error:  syntax error, unexpected T_ECHO in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 34
+[07-Oct-2013 18:33:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 33
+[07-Oct-2013 18:35:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.save.php on line 33
+[09-Oct-2013 18:37:03] PHP Parse error:  syntax error, unexpected '?' in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.form.php on line 42
+[09-Oct-2013 18:37:19] PHP Parse error:  syntax error, unexpected '?' in /home/gsico/public_html/php_basico/crud/adm_proveedores/adm_proveedores.form.php on line 42
+[09-Oct-2013 18:41:10] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 5
+[09-Oct-2013 18:44:56] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 5
+[09-Oct-2013 18:48:11] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 5
+[09-Oct-2013 18:48:50] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 5
+[09-Oct-2013 18:51:49] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 5
+[09-Oct-2013 18:52:58] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 7
+[09-Oct-2013 18:53:32] PHP Parse error:  syntax error, unexpected '=' in /home/gsico/public_html/php_basico/crud/adm_proveedores/funcion_proveedor.fc.php on line 7
