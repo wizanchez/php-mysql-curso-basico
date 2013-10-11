@@ -1,0 +1,11 @@
+[10-Oct-2013 10:46:50] PHP Parse error:  syntax error, unexpected '{' in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 61
+[10-Oct-2013 10:58:28] PHP Parse error:  syntax error, unexpected '<' in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 63
+[10-Oct-2013 12:30:06] PHP Parse error:  syntax error, unexpected '<' in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 63
+[10-Oct-2013 12:31:02] PHP Warning:  include(funcion_color.fc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:31:02] PHP Warning:  include(funcion_color.fc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:31:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'funcion_color.fc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:31:02] PHP Fatal error:  Call to undefined function  gl_get_marca() in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 26
+[10-Oct-2013 12:32:48] PHP Warning:  include(funcion_color.fc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:32:48] PHP Warning:  include(funcion_color.fc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:32:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'funcion_color.fc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 5
+[10-Oct-2013 12:32:48] PHP Fatal error:  Call to undefined function  gl_get_marca() in /home/gsico/public_html/php_basico/crud/adm_marca/adm_marca.list.php on line 26
